@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "blam.tk",
+  "Id": "279a01b9-0436-4637-8724-7da2a4ebd799"
+}
